@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sabanonitsuke
+# 🐟  Hi, I’m @sabanonitsuke
 
 - 🌱 I’m currently learning Ruby and Python3.
 - 👀 I’m interested in Java.
