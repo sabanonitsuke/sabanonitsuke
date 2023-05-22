@@ -1,5 +1,3 @@
-# 🐟  Hi, I’m @sabanonitsuke
-
 - 🌱 I’m currently learning Ruby and Python3.
 
 <!---
