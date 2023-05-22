@@ -1,8 +1,6 @@
 # 🐟  Hi, I’m @sabanonitsuke
 
 - 🌱 I’m currently learning Ruby and Python3.
-- 👀 I’m interested in Java.
-- 🎹 My hobby is playing the piano.
 
 <!---
 
