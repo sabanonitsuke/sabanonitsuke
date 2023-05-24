@@ -1,4 +1,8 @@
-- 🌱 I’m currently learning Ruby and Python3.
+- 🌱 Ruby と Python3 学集中
+- 📕学習方法
+  - オリジナルアプリ作成
+  - paiza
+  - 書籍
 
 <!---
 
